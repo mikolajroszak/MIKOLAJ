@@ -1,0 +1,1315 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+        <head>
+                                                    <link rel="stylesheet" href="/build/base_main.89b996f1.css">
+                            
+    <link rel="stylesheet" href="/build/pages/pair.97beeb78.css">
+                            <script nonce="73azU/cDuu9cUBxbyRPC9A==" defer src="/translations.js"></script>
+<script nonce="73azU/cDuu9cUBxbyRPC9A==" defer src="/bundles/fosjsrouting/js/router.min.js"></script>
+<script nonce="73azU/cDuu9cUBxbyRPC9A==" defer src="/js/routing?callback=fos.Router.setData"></script>
+<script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/runtime.e2e16b8e.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/8550.204c548f.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/2512.a37b70c4.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/5760.4424b022.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/1549.de2f7c50.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/1436.50df0915.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/5594.4cd20395.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/8819.fbbb26c3.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/1770.6cf6a74e.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/2934.52e14884.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/9918.b5319494.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/5902.43f9909f.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/3997.5443f5c6.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/base_main.31d70b9d.js" defer></script>
+<script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/footer.6f4ee511.js" defer></script>
+                                    <script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/5385.e18e615e.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/2156.d5afba0a.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/7983.bc46673e.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/main.d5debf06.js" defer></script>
+                
+                    <script nonce="73azU/cDuu9cUBxbyRPC9A==" src="https://apis.google.com/js/platform.js"></script>
+    <script nonce="73azU/cDuu9cUBxbyRPC9A==" src="https://apis.google.com/js/api.js"></script>
+        <script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/9309.1443e324.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/5193.4abe4000.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/6024.58905b70.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/4930.5e6ece15.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/9002.c5338303.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/4329.e1da20f3.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/8095.60f6f08a.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/1927.8e6b7296.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/1417.75de1806.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/2133.085fc3c3.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/8931.8e96a90e.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/441.25d65c76.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/4794.ad344bc0.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/8123.3989086e.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/9205.598742d0.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/333.37637c9e.js" defer></script><script nonce="73azU/cDuu9cUBxbyRPC9A==" src="/build/pages/pair.d9baee82.js" defer></script>
+    <script nonce="73azU/cDuu9cUBxbyRPC9A==" defer>
+        window.fbAsyncInit = () => {
+            FB.init({
+                appId: '243635433206441',
+                autoLogAppEvents: true,
+                xfbml: true,
+                version: 'v3.1',
+            });
+        };
+    </script>
+    <script nonce="73azU/cDuu9cUBxbyRPC9A==" async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
+                                                <meta property="og:description" content="MIKOLAJ coins - business coins for custormes of Krabowe Skorupki.
+ Reef clothes from the depths of the ocean. 
+ 
+ Shop for your boards, japanesee cars, neopren suits, good windsurfing sails, boots and">
+        <meta name="description" content="MIKOLAJ coins - business coins for custormes of Krabowe Skorupki.
+ Reef clothes from the depths of the ocean. 
+ 
+ Shop for your boards, japanesee cars, neopren suits, good windsurfing sails, boots and">
+                <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, target-densityDpi=device-dpi" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="keywords" content="mintMe,MINTME,crypto,exchanger,token,dapps">
+<meta name="author" content="mintme">
+<meta name="csrf-token" content="Z6KIPmr02pfW2TXcsD3JdQ70TpVXzf0SsrpiAZM53No">
+<link rel="apple-touch-icon" sizes="57x57" href="/build/images/apple-icon-57x57.8df9acb7..png">
+<link rel="apple-touch-icon" sizes="60x60" href="/build/images/apple-icon-60x60.7871252b..png">
+<link rel="apple-touch-icon" sizes="72x72" href="/build/images/apple-icon-72x72.40f46750..png">
+<link rel="apple-touch-icon" sizes="76x76" href="/build/images/apple-icon-76x76.4667641d..png">
+<link rel="apple-touch-icon" sizes="114x114" href="/build/images/apple-icon-114x114.f49302ad..png">
+<link rel="apple-touch-icon" sizes="120x120" href="/build/images/apple-icon-120x120.77a6a3aa..png">
+<link rel="apple-touch-icon" sizes="144x144" href="/build/images/apple-icon-144x144.2d753b77..png">
+<link rel="apple-touch-icon" sizes="152x152" href="/build/images/apple-icon-152x152.daa8557d..png">
+<link rel="apple-touch-icon" sizes="180x180" href="/build/images/apple-icon-180x180.70927680..png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/build/images/android-icon-192x192.9ab79f20..png">
+<link rel="icon" type="image/png" sizes="32x32" href="/build/images/favicon-32x32.0b66b9c4..png">
+<link rel="icon" type="image/png" sizes="96x96" href="/build/images/favicon-96x96.fb06cd5d..png">
+<link rel="icon" type="image/png" sizes="16x16" href="/build/images/favicon-16x16.acb2ba58..png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="/manifest.json">
+
+<meta name="theme-color" content="#141C29">
+
+<meta property="og:title" content="Information about MIKOLAJ token | mintMe">
+<meta property="og:site_name" content="Mintme">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.mintme.com/token/MIKOLAJ">
+<meta property="og:image" content="https://www.mintme.com/media/cache/avatar_large/media/default_token.png">
+<meta
+    property="og:image:alt"
+    content="Information about MIKOLAJ token | mintMe"
+>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="https://www.mintme.com/token/MIKOLAJ">
+<meta name="twitter:creator" content="Mintme">
+
+<style>
+    @font-face {
+        font-family: 'ConcordBold';
+        src: url(/build/fonts/Concord-Bold.0ead4251.ttf) format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Concord';
+        src: url(/build/fonts/Concord.ff91815d.otf) format('opentype');
+    }
+
+    body {
+        background-color: #0c1a29;
+    }
+</style>
+
+                            
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script nonce="73azU/cDuu9cUBxbyRPC9A==" defer async src="https://www.googletagmanager.com/gtag/js?id=UA-2289508-20"></script>
+
+<script nonce="73azU/cDuu9cUBxbyRPC9A==">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+        gtag('config', 'UA-2289508-20');
+    </script>
+
+<!--Start of Tawk.to Script-->
+<script nonce="73azU/cDuu9cUBxbyRPC9A==" type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    Tawk_API.onLoad = function(){
+        Tawk_API.setAttributes({
+            'name'  : 'mikolajcoin',
+            'email' : 'ul.echo12@gmail.com',
+            'hash'  : 'ac0eb7b82df0cd72d41df37af0c2428869d3763b4501a953ffcc6b92fe33e339',
+            'user' : 'ul.echo12@gmail.com',
+            'token' : '',
+            'first-name' : 'Mikolaj',
+            'last-name' : 'Roszak'
+        }, function(error){});
+    }
+</script>
+<script nonce="73azU/cDuu9cUBxbyRPC9A=="
+    defer
+    src="https://embed.tawk.to/5c61c14e7cf662208c950e23/default"
+    charset="UTF-8"
+    crossorigin="*"
+></script>
+<!--End of Tawk.to Script-->
+<script nonce="73azU/cDuu9cUBxbyRPC9A==">
+    var doc = document.documentElement;
+    doc.setAttribute("data-useragent",  navigator.userAgent);
+    doc.setAttribute("data-platform", navigator.platform );
+</script>
+<script nonce="73azU/cDuu9cUBxbyRPC9A==" type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "@type": "WebSite",
+            "name": "mintMe crowdfunding & cryptocurrency exchange platform.",
+            "url": "https://www.mintme.com/",
+            "about": "mintMe revolutionizes how people help each other by allowing both sides to earn through an innovative way of crowdfunding.\n Anyone can create a token that represents themselves or a project in just a few clicks, personalize it and promote it to obtain support in fundraising. It helps content creators to realize their maximum potential through a new innovative way of crowdfunding. It's also a social platform where cryptocurrency traders can interact with token creators and other traders.",
+            "copyrightYear": "2019",
+            "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, token, dapps"
+        },
+        {
+            "@type": "Product",
+            "brand": "mintMe",
+            "name": "mintMe crowdfunding & cryptocurrency exchange platform.",
+            "url": "https://www.mintme.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "caption": "mintMeLogo",
+                "contentUrl": "https://www.mintme.com/build/images/logo.1563ca34..png",
+                "description": "Mintme cryptocurrency exchange logo.",
+                "name": "mintMe crowdfunding & cryptocurrency exchange platform.",
+                "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, token, dapps"
+            },
+            "image": {
+                "@type": "ImageObject",
+                "caption": "mintMeImage",
+                "contentUrl": "https://www.mintme.com/build/images/hero_image.jpg",
+                "description": "mintMe revolutionizes how people help each other by allowing both sides to earn through an innovative way of crowdfunding.",
+                "name": "mintMe crowdfunding & cryptocurrency exchange platform.",
+                "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, token, dapps"
+            },
+            "offers": {
+                "@type": "Offer",
+                "price": "0.00",
+                "priceCurrency": "USD",
+                "description": "When you refer someone, you will get 50% of his trading fees!",
+                "mainEntityOfPage": "https://www.mintme.com/referral-program",
+                "image": {
+                        "@type": "ImageObject",
+                        "caption": "mintMe referral",
+                        "contentUrl": "https://www.mintme.com/build/images/easy_icon_04.b70c1bab..png",
+                        "description": "mintMe referral program",
+                        "name": "mintMeReferral",
+                        "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, referral program"
+                },
+                "name": "ReferralProgram",
+                "url": "https://www.mintme.com/referral-program",
+                "availability": "http://schema.org/InStock"
+            },
+            "description": "mintMe revolutionizes how people help each other by allowing both sides to earn. Anyone can create a token that represents themselves or a project that they have created for their fanbase and supporters to support them.",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "reviewCount": "14",
+                "ratingValue": "5",
+                "author": {
+                    "@type": "Organization",
+                    "name": "AlternativeTo",
+                    "url": "https://alternativeto.net/software/mintme/reviews/"
+                },
+                "name": "mintMeRating"
+            }
+        },
+        {
+            "@type": "WebApplication",
+            "name": "mintMe crowdfunding & cryptocurrency exchange platform.",
+            "applicationCategory": "crowdfunding /cryptocurrency exchange",
+            "operatingSystem": "all",
+            "description": "mintMe revolutionizes how people help each other by allowing both sides to earn.",
+            "featureList": "Create tokens, trade tokens, two factor authenthication",
+            "url": "https://www.mintme.com/",
+            "releaseNotes": "https://www.mintme.com/news",
+            "screenshot": "https://www.mintme.com/build/images/screenshot.0e503474..png",
+            "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, referral program",
+            "offers": {
+                "@type": "Offer",
+                "price": "0.00",
+                "priceCurrency": "USD",
+                "description": "When you refer someone, you will get 50% of his trading fees!",
+                "mainEntityOfPage": "https://www.mintme.com/referral-program",
+                "image": {
+                    "@type": "ImageObject",
+                    "caption": "mintMe referral",
+                    "contentUrl": "https://www.mintme.com/build/images/easy_icon_04.b70c1bab..png",
+                    "description": "Mintme referral program",
+                    "name": "mintMeReferral",
+                    "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, referral program"
+                },
+                "name": "ReferralProgram"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "reviewCount": "14",
+                "ratingValue": "5",
+                "author": {
+                    "@type": "Organization",
+                    "name": "AlternativeTo",
+                    "url": "https://alternativeto.net/software/mintme/reviews/"
+                },
+                "name": "mintMeRating"
+            },
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "caption": "mintMeLogo",
+                    "contentUrl": "https://www.mintme.com/build/images/logo.1563ca34..png",
+                    "description": "mintMe cryptocurrency exchange logo.",
+                    "name": "mintMe crowdfunding & cryptocurrency exchange platform.",
+                    "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, referral program"
+                } ,
+                {
+                    "@type": "ImageObject",
+                    "caption": "mintMeImage",
+                    "contentUrl": "https://www.mintme.com/build/images/hero_image.jpg",
+                    "description": "mintMe revolutionizes how people help each other by allowing both sides to earn through an innovative way of crowdfunding.",
+                    "name": "mintMe crowdfunding & cryptocurrency exchange platform.",
+                    "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, referral program"
+                }
+            ],
+            "softwareHelp": {
+                "@type": "HowTo",
+                "description": "mintMe revolutionizes how people help each other by allowing both sides to earn through an innovative way of crowdfunding.\n Anyone can create a token that represents themselves or a project in just a few clicks, personalize it and promote it to obtain support.",
+                "about": "mintMe revolutionizes how people help each other by allowing both sides to earn through an innovative way of crowdfunding.\n Anyone can create a token that represents themselves or a project in just a few clicks, personalize it and promote it to obtain support.",
+                "mainEntityOfPage": "https://www.mintme.com/",
+                "name": "mintMeHelp",
+                "keywords": "project crowdfunding, create token, token creation, make coin, create coin, crypto, exchanger, referral program",
+                "url": "https://www.mintme.com/",
+                "totalTime": "PT20M",
+                "tool": [
+                    {
+                      "@type": "HowToTool",
+                      "name": "Project idea"
+                    },
+                    {
+                      "@type": "HowToTool",
+                      "name": "Webchain Coin"
+                    },
+                    {
+                      "@type": "HowToTool",
+                      "name": "Bitcoin"
+                    },
+                    {
+                      "@type": "HowToTool",
+                      "name": "Token"
+                    },
+                    {
+                      "@type": "HowToTool",
+                      "name": "Valid email address"
+                    }
+                ],
+                "step": [
+                    {
+                        "@type": "HowToSection",
+                        "name": "Registration",
+                        "position": "1",
+                        "itemListElement": [
+                            {
+                                "@type": "HowToStep",
+                                "name": "Go to mintMe",
+                                "url": "https://www.mintme.com/",
+                                "position": "1",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Go to mintMe.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Go to Sign Up",
+                                "url": "https://www.mintme.com/register/",
+                                "position": "2",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Click \"Sign Up\" on the top bar"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Fill registration form",
+                                "url": "https://www.mintme.com/register/",
+                                "position": "3",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Fill the registration form appropriately."
+                                    },
+                                    {
+                                        "@type": "HowToTip",
+                                        "position": "2",
+                                        "text": " You will need to use a valid email and an acceptable password."
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Click Sign Up button",
+                                "url": "https://www.mintme.com/register/",
+                                "position": "4",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Click the \"Sign Up\" button."
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Activate your account",
+                                "position": "5",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Check for the activation link in the email inbox you used to signup. Click the link to activate the account"
+                                    },
+                                    {
+                                        "@type": "HowToTip",
+                                        "position": "2",
+                                        "text": "Check your spam folder"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Complete your profile",
+                                "url": "https://www.mintme.com/profile",
+                                "position": "6",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Finish adding your profile information."
+                                    },
+                                    {
+                                        "@type": "HowToTip",
+                                        "position": "2",
+                                        "text": "It is necessary to complete editing your profile before creating a new token"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "HowToSection",
+                        "name": "Create token",
+                        "position": "2",
+                        "itemListElement": [
+                            {
+                                "@type": "HowToStep",
+                                "name": "Go to token page",
+                                "url": "https://www.mintme.com/token",
+                                "position": "1",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Click \"My Token\" option in the top menu bar."
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Create token",
+                                "url": "https://www.mintme.com/token",
+                                "position": "2",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Add the token name and click \"Create token\" button."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "HowToSection",
+                        "name": "Create sell order",
+                        "position": "3",
+                        "itemListElement": [
+                            {
+                                "@type": "HowToStep",
+                                "name": "Go to trading",
+                                "url": "https://www.mintme.com/trading",
+                                "position": "1",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Click Trading option in the top menu bar"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Select market",
+                                "url": "https://www.mintme.com/trading",
+                                "position": "2",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Select your appropriate pair from the trading list to go to the token page."
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Create sell order",
+                                "position": "3",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Scroll down the trading page to the SELL section, fill in the Sell Order form appropriately and click \"Create Sell order\" button."
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "HowToStep",
+                                "name": "Wait",
+                                "position": "4",
+                                "itemListElement": [
+                                    {
+                                        "@type": "HowToDirection",
+                                        "position": "1",
+                                        "text": "Wait patiently for the system to match and execute your order automatically."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
+</script>
+                        <title>
+                     Information about MIKOLAJ token | mintMe
+            </title>
+        </head>
+        <body class="">
+            <div id="user-init">
+                                    <user-init
+                        :is-signed-in-with-twitter="false"
+                        :user-id="54092"
+                    ></user-init>
+                            </div>
+                            <div class="content-wrapper d-flex flex-column ">
+                                            
+<nav class="navbar top-navbar navbar-expand-lg" id="navbar">
+    <div class="container-fluid">
+        <a class="order-first navbar-brand" href="/">
+                            <img
+                                            class="mintme-logo"
+                                        src="/build/images/logo.4bc8fd14..svg"
+                    alt="mintMe"
+                >
+        </a>
+        <div class="order-1 order-lg-3">
+                            <div class="float-left d-flex align-items-center m-lg-0">
+                    <user-notification class="small-bell mx-xs-1 mx-sm-2 m-lg-0"></user-notification>
+                    <nav-envelope class="mx-xs-1 mx-sm-2 m-lg-0 pr-sm-1" href="/chat"></nav-envelope>
+                </div>
+                            <button
+                    class="navbar-toggler"
+                    :class="{ 'collapsed': !showNavbarMenu }"
+                    type="button"
+                    :aria-expanded="showNavbarMenu"
+                    aria-label="Toggle navigation"
+                    @click="toggleNavbarMenu"
+                >
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+        <div class="order-2 collapse navbar-collapse" :class="{ 'show': showNavbarMenu }">
+            <form class="form-inline justify-content-center py-3 py-lg-0 pr-0 pr-lg-3 ml-auto">
+                <token-searcher
+                    class="flex-nowrap justify-content-center pr-0 align-items-center v-cloak--hidden mr-1"
+                    search-url="/api/tokens/search"
+                ></token-searcher>
+                <div class="v-cloak--flex justify-content-center align-items-center ml-1">
+                    <input
+                        class="search-input form-control no-bg-img"
+                        placeholder="Search for the token"
+                        type="text"
+                    >
+                    <svg
+                        width="19.5"
+                        height="19.5"
+                        aria-hidden="true"
+                        focusable="false"
+                        data-prefix="fas"
+                        data-icon="search"
+                        role="img"
+                        xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 512 512"
+                        class="search-icon fa-search"
+                    >
+                        <path
+                            d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7
+                            44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0
+                            92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4
+                            33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128
+                            0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"
+                        ></path>
+                    </svg>
+                </div>
+            </form>
+            <ul class="navbar-nav ml-auto">
+                                    <li class="nav-item menu-token align-self-center text-lg-left text-center active">
+                        <a href="/token" class="nav-link">
+                            <span class="icon-token float-left mt-1 mr-1 d-none d-lg-inline icon-token-active"></span>
+                            My Token                        </a>
+                    </li>
+                                <li class="nav-item align-self-center ">
+                    <a href="/trading" class="nav-link">
+                        Trading                    </a>
+                </li>
+
+                                    <li class="nav-item align-self-center ">
+                        <a href="/post/home" class="nav-link">
+                            Home                        </a>
+                    </li>
+                
+                <li class="nav-item align-self-center ">
+                    <a href="/news" class="nav-link">
+                        News                    </a>
+                </li>
+                                    <li class="nav-item align-self-center ">
+                        <a href="/referral-program" class="nav-link">
+                            Referrals                        </a>
+                    </li>
+                                <li class="nav-item align-self-center ">
+                    <a href="/kb" class="nav-link">
+                        Help                    </a>
+                </li>
+                <li class="nav-item align-self-center ">
+                    <a href="/voting" class="nav-link">
+                        Voting                    </a>
+                </li>
+                                                            <li class="nav-item align-self-center d-lg-none ">
+                            <a
+                                href="/wallet"
+                                class="nav-link"
+                            >
+                                <span>Wallet</span>
+                            </a>
+                        </li>
+                        <li class="nav-item align-self-center d-lg-none ">
+                            <a
+                                href="/profile/mikolajcoin"
+                                class="nav-link"
+                            >
+                                <span>Profile</span>
+                            </a>
+                        </li>
+                        <li class="nav-item align-self-center d-lg-none ">
+                            <a href="/settings" class="nav-link">
+                                <span>Settings</span>
+                            </a>
+                        </li>
+                                                    <li class="nav-item align-self-center d-lg-none">
+                                <a href="/token/show/settings" class="nav-link">
+                                    <span>Token settings</span>
+                                </a>
+                            </li>
+                                                <li class="nav-item align-self-center d-lg-none ">
+                            <form action="/logout" method="post" id="form-button-logout">
+                                <input type="hidden" name="_csrf_token" value="OEhjNoySeKabxWo0QkGpKYgoqiUvlJjtPMkd5n7q30o" id="csrf-token"/>
+                                <button
+                                    class="logout-link"
+                                    type="submit"
+                                    id="_submit"
+                                    name="_submit"
+                                >
+                                    Log Out                                </button>
+                            </form>
+                        </li>
+                                                </ul>
+        </div>
+                    <div class="order-last pr-0 dropdown d-none d-lg-block float-right" :class="{ 'show': showProfileMenu }" id="nav-profile">
+                <a
+                    class="nav-link pl-3 pr-0 dropdown-toggle c-pointer"
+                    aria-haspopup="true"
+                    :aria-expanded="showProfileMenu"
+                    @click="toggleProfileMenu"
+                    v-on-clickaway="hideProfileMenu"
+                    tabindex="0"
+                    @keyup.enter="toggleProfileMenu"
+                >
+                    <avatar
+                        class=""
+                        size="middle"
+                        type="profile"
+                        image="https://www.mintme.com/media/cache/avatar_middle/uploads/images/20281166-245b-11ec-927e-ac162db679ce.jpeg"
+                    ></avatar>
+                </a>
+                <div
+                    class="dropdown-menu dropdown-menu-right align-self-end align-self-lg-center profile-menu"
+                    :class="{ 'show': showProfileMenu }"
+                >
+                    <a class="dropdown-item " href="/wallet">
+                        <span class="icon-wallet float-left mt-1 mr-2 d-none d-lg-inline"></span>
+                        Wallet                    </a>
+                    <a
+                        class="dropdown-item "
+                        href="/profile/mikolajcoin"
+                        tabindex="0"
+                    >
+                        <span class="icon-profile float-left mt-1 mr-2 d-none d-lg-inline"></span>
+                        Profile                    </a>
+                    <a class="dropdown-item " href="/settings">
+                        <span class="icon-settings float-left mt-1 mr-2 d-none d-lg-inline"></span>
+                        Settings                    </a>
+                                            <a class="dropdown-item" href="/token/show/settings">
+                            <span class="icon-token-drop-down float-left mt-1 mr-2 d-none d-lg-inline"></span>
+                            Token settings                        </a>
+                                        <form action="/logout" method="post" id="form-button-logout-lg">
+                        <input type="hidden" name="_csrf_token" value="OEhjNoySeKabxWo0QkGpKYgoqiUvlJjtPMkd5n7q30o" id="csrf-token-lg"/>
+                        <span class="dropdown-item">
+                            <button
+                                class="logout"
+                                type="submit"
+                                id="_submit_lg"
+                                name="_submit"
+                                tabindex="0"
+                            >
+                                <span class="icon-logout float-left mt-1 mr-2 d-none d-lg-inline"></span>
+                                Log Out                            </button>
+                        </span>
+                    </form>
+                </div>
+            </div>
+            </div>
+</nav>
+                                        <main class="flex-fill content ">
+                                                                                                                                            
+<div id="token" class="container">
+    <div class="row mt-5 justify-content-center" v-if="false">
+    <div class="col-md-10 d-flex justify-content-between">
+        <div class="token-avatar ml-2">
+            <div class="d-flex align-items-center token-name">
+                <div class="overflow-hidden token-name d-flex align-items-center">
+                    <h1 class="h2 current-token-name">MIKOLAJ</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row pt-1 justify-content-center" v-if="false">
+        <div class="col-md-10">
+        <div class="tabs tabs-theme transparent">
+            <div class="tabs-wrapper">
+                <div class="tabs-left-margin-container"></div>
+                <ul role="tablist" class="nav nav-tabs spinner-tabs">
+                    <li
+                        role="presentation"
+                        class="nav-item  token-avatar-left "
+                    >
+                        <a
+                            role="tab"
+                            aria-selected="true"
+                            aria-setsize="2"
+                            aria-posinset="1"
+                            target="_self"
+                            href="/token/MIKOLAJ"
+                            class="nav-link active"
+                        >
+                            Introduction                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a
+                            role="tab"
+                            aria-selected="false"
+                            aria-setsize="2"
+                            aria-posinset="2"
+                            target="_self"
+                            href="/token/MIKOLAJ/posts"
+                            class="nav-link "
+                        >
+                            Posts                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a
+                            role="tab"
+                            aria-selected="false"
+                            aria-setsize="2"
+                            aria-posinset="2"
+                            target="_self"
+                            href="/token/MIKOLAJ/trade"
+                            class="nav-link "
+                        >
+                            Trade                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a
+                            role="tab"
+                            aria-selected="false"
+                            aria-setsize="2"
+                            aria-posinset="2"
+                            target="_self"
+                            href="/token/MIKOLAJ/voting?tab=voting"
+                            class="nav-link "
+                        >
+                            Voting                        </a>
+                    </li>
+                    <li class="nav-item-token">
+                        <div class="nav-link-token">
+                            <div class="truncate-token">
+                                <span>&nbsp;</span>
+                            </div>
+                        </div>
+                    </li>
+                    <div class="clearfix"></div>
+                </ul>
+            </div>
+            <div class="tab-content">
+                                    <div class="row">
+                        <div class="col-12 mb-3">
+        <div class="card h-100">
+        <div class="card-header">
+            <span>
+                Buy MIKOLAJ            </span>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="'col-lg-8' col-xl-5">
+                   <div class="d-sm-flex">
+                      <div id="donation_currency" class="dropdown btn-group b-dropdown mr-2">
+                         <button 
+                             id="donation_currency__BV_toggle_"
+                             aria-haspopup="true" aria-expanded="false"
+                             type="button" class="btn dropdown-toggle btn-primary"
+                         >
+                                MINTME                         </button>
+                      </div>
+                      <div class="input-group flex-nowrap my-3 my-sm-0">
+                         <div class="position-relative h-fit-content d-block flex-grow-1">
+                            <input type="text" class="form-control price-converter-input__input" disabled />
+                         </div>
+                         <div class="input-group-append">
+                             <button type="button" class="btn btn-primary all-button">
+                                 All                              </button>
+                         </div>
+                      </div>
+                      <div>
+                         <button disabled class="btn btn-primary btn-donate ml-sm-2">
+                             <span class="text-muted">
+                                 Buy                             </span>
+                         </button>
+                      </div>
+                   </div>
+                    <div class="mt-1">
+                        <div class="m-0 mt-1">
+                        You will receive approximately:                            <span class="text-nowrap">
+                                0 tokens
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                                    <div id="show-balance" class="col-lg-4 col-xl-auto col-donation-balance mt-3 mt-lg-0">
+                        <p class="m-0">
+                            <span>Your balance:</span>
+                            <div class="icon-loading"></div>
+                        </p>
+                    </div>
+                                <div class="col mt-3 mt-xl-0 pl-xl-0">
+                    <p class="info m-0">
+                        Money spent here will go to token creator. If you don't want to support this token and you are interested in lowest possible price, use <a href="/token/MIKOLAJ/trade">trade</a> option.                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+                    </div>
+                                                    <div role="tabpanel" aria-hidden="false" class="tab-pane active">
+                        <div class="row">
+                            <div class="col-12 pb-3">
+                                <div class="card h-100">
+                                    <div class="card-header">
+                                        Description                                    </div>
+                                    <div class="card-body">
+                                        <div class="row fix-height custom-scrollbar">
+                                            <div class="col-12">
+                                                <div>
+                                                    <p>
+                                                                                                                    MIKOLAJ coins - business coins for custormes of Krabowe Skorupki.
+ Reef clothes from the depths of the ocean. 
+ 
+ Shop for your boards, japanesee cars, neopren suits, good windsurfing sails, boots and carvings.
+ Design by Mikołaj Roszak
+                                                                                                            </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row token-info-container">
+                            <div class="h-100 col-12 col-lg-7 pr-lg-1">
+                                <div class="card h-100">
+                                    <div class="card-header">
+                                        Recent posts                                    </div>
+                                        <div class="card-body h-100 d-flex align-items-center justify-content-center">
+        <span class="text-center py-4 ">
+            The token creator has not added any posts yet.        </span>
+    </div>
+                                </div>
+                            </div>
+                            <div class="h-100 col-12 col-lg-5 pt-3 pt-lg-0 pl-lg-1">
+                                <div class="card h-100 top-holders">
+                                    <div class="card-header">
+                                        Top Holders                                    </div>
+                                                                                    <div class="card-body p-0">
+                                                <div class="table-responsive">
+                                                    <table role="table" aria-busy="false" aria-colcount="2" class="table b-table">
+                                                        <thead role="rowgroup">
+                                                        <tr role="row">
+                                                            <th role="columnheader" scope="col" aria-colindex="1">
+                                                                Trader                                                            </th>
+                                                            <th role="columnheader" scope="col" aria-colindex="3">
+                                                                Amount                                                            </th>
+                                                        </tr>
+                                                        </thead>
+                                                        <tbody role="rowgroup">
+                                                                                                                        <tr role="row">
+                                                                <td role="cell" aria-colindex="1">
+                                                                    <div class="d-flex flex-row flex-nowrap justify-content-between w-100">
+                                                                        <img
+                                                                            src="https://www.mintme.com/media/cache/resolve/avatar_small/media/default_profile.png"
+                                                                            alt="avatar" class="d-block rounded-circle">
+                                                                        <a
+                                                                            href="/profile?nickname=ELfromR"
+                                                                            class="holder-name mr-1 text-white">
+                                                                            <div class="overflow-hidden">
+                                                                                <span>
+                                                                                    ELfromR
+                                                                                </span>
+                                                                            </div>
+                                                                        </a>
+                                                                    </div>
+                                                                </td>
+                                                                <td role="cell" aria-colindex="3">
+                                                                    98
+                                                                </td>
+                                                            </tr>
+                                                                                                                    </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                                                        </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="card col-12 mt-3">
+                                <div class="card-body text-center">
+                                    <a target"_self" href="#" style="pointer-events: none;">
+                                        Show stats                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                                                                                                            </div>
+        </div>
+    </div>
+    </div>
+
+
+    <balance-init
+            :is-token="true"
+            websocket-url="wss://api.mintme.com"
+            hash="8bba98c9305bf85801769b78624cf3d3ffcb64708ab4303e538754baaf83b0ee"
+            :market="{&quot;base&quot;:{&quot;name&quot;:&quot;Webchain&quot;,&quot;symbol&quot;:&quot;WEB&quot;,&quot;isToken&quot;:false,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_mintme.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_mintme.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_mintme.png&quot;},&quot;identifier&quot;:&quot;WEB&quot;,&quot;subunit&quot;:4},&quot;quote&quot;:{&quot;name&quot;:&quot;MIKOLAJ&quot;,&quot;telegramUrl&quot;:null,&quot;discordUrl&quot;:null,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_token.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_token.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_token.png&quot;},&quot;decimals&quot;:12,&quot;holdersCount&quot;:2,&quot;symbol&quot;:&quot;MIKOLAJ&quot;,&quot;blocked&quot;:false,&quot;ownerId&quot;:54092,&quot;identifier&quot;:&quot;TOK000000012342&quot;,&quot;subunit&quot;:4},&quot;identifier&quot;:&quot;TOK000000012342WEB&quot;}"
+            :logged-in="true"
+            :is-owner="true"
+            :precision="4"
+    >
+    </balance-init>
+
+        <div class="row justify-content-center pair-container">
+        <div class="col-md-10 d-flex justify-content-between">
+            <token-avatar
+                ref="tokenAvatar"
+                class="ml-2"
+                :is-owner="true"
+                :has-release-period-prop="false"
+                :is-token-created="true"
+                :is-mintme-token="getIsMintmeToken(true)"
+                :is-controlled-token="true"
+                :market="{&quot;base&quot;:{&quot;name&quot;:&quot;Webchain&quot;,&quot;symbol&quot;:&quot;WEB&quot;,&quot;isToken&quot;:false,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_mintme.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_mintme.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_mintme.png&quot;},&quot;identifier&quot;:&quot;WEB&quot;,&quot;subunit&quot;:4},&quot;quote&quot;:{&quot;name&quot;:&quot;MIKOLAJ&quot;,&quot;telegramUrl&quot;:null,&quot;discordUrl&quot;:null,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_token.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_token.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_token.png&quot;},&quot;decimals&quot;:12,&quot;holdersCount&quot;:2,&quot;symbol&quot;:&quot;MIKOLAJ&quot;,&quot;blocked&quot;:false,&quot;ownerId&quot;:54092,&quot;identifier&quot;:&quot;TOK000000012342&quot;,&quot;subunit&quot;:4},&quot;identifier&quot;:&quot;TOK000000012342WEB&quot;}"
+                :token-crypto="getTokenCrypto({&quot;name&quot;:&quot;Webchain&quot;,&quot;symbol&quot;:&quot;WEB&quot;,&quot;isToken&quot;:false,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_mintme.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_mintme.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_mintme.png&quot;},&quot;identifier&quot;:&quot;WEB&quot;,&quot;subunit&quot;:4})"
+                :precision="4"
+                :status-prop="getTokenStatus(&quot;not-deployed&quot;)"
+                :twofa="false"
+                websocket-url="wss://api.mintme.com"
+                release-address=""
+                facebook-app-id="243635433206441"
+                youtube-client-id="912700451204-3kpkkork1hngbuq06gm34vb9ri0saaec.apps.googleusercontent.com"
+                :showSuccess="false"
+                :telegram-url="coalesce(tokenTelegram, '')"
+                :discord-url="coalesce(tokenDiscord, '')"
+                :airdrop-params="{&quot;min_tokens_amount&quot;:0.01,&quot;min_participants_amount&quot;:100,&quot;max_participants_amount&quot;:999999,&quot;min_token_reward&quot;:0.0001}"
+                @token-deploy-pending="setTokenPending"
+                @updated-website="websiteUpdated"
+                @updated-facebook="facebookUpdated"
+                @updated-youtube="youtubeUpdated"
+                @updated-discord="discordUpdated"
+                @updated-telegram="telegramUpdated"
+                image="/build/images/default_token_avatar.bde4de30..svg"
+                profile-url="https://www.mintme.com/profile/mikolajcoin"
+                profile-name="Mikolaj"
+                profile-lastname="Roszak"
+                profile-description="Mikolaj Roszak - Dealer Liberty Walk | リバティーウォーク Complete car and customize!
+https://libertywalk.co.jp/
+Dealer firmy Gaastra
+http://www.gaastra.com"
+                profile-anonymously=""
+                :token-description="tokenDescription"
+                token-name="MIKOLAJ"
+                :token-facebook="tokenFacebook ? tokenFacebook : null"
+                :token-youtube="tokenYoutube ? tokenWebsite : null"
+                :token-website="tokenWebsite ? tokenWebsite : null"
+                :show-token-edit-modal="false"
+                disabled-services-config="{&quot;depositDisabled&quot;:false,&quot;withdrawalsDisabled&quot;:false,&quot;deployDisabled&quot;:false,&quot;newTradesDisabled&quot;:false,&quot;tradingDisabled&quot;:false,&quot;allServicesDisabled&quot;:false,&quot;tokenDepositsDisabled&quot;:false,&quot;tokenWithdrawalsDisabled&quot;:false}"
+                :token-delete-sold-limit="100000"
+                current-locale="en"
+                :token-deployed-date="tokenDeployedDate || (tokenDeployedDate = null)"
+                :token-tx-hash-address="tokenTxHashAddress || (tokenTxHashAddress = null)"
+                mintme-explorer-url="https://mintme.com/explorer"
+                eth-explorer-url="https://etherscan.io/"
+                bnb-explorer-url="https://bscscan.com/"
+                :service-unavailable="false"
+            ></token-avatar>
+            <token-social-media-icons
+                youtube-client-id="912700451204-3kpkkork1hngbuq06gm34vb9ri0saaec.apps.googleusercontent.com"
+                facebook-app-id="243635433206441"
+                token-name="MIKOLAJ"
+                token-url="https://www.mintme.com/token/MIKOLAJ"
+                :website-url="coalesce(tokenWebsite, '')"
+                :facebook-url="coalesce(tokenFacebook,'')"
+                :youtube-channel-id="coalesce(tokenYoutube, '')"
+                :telegram-url="coalesce(tokenTelegram, '')"
+                :discord-url="coalesce(tokenDiscord, '')"
+            />
+        </div>
+    </div>
+    
+    <div class="row mt-1 justify-content-center">
+        <div class="col-md-10" v-cloak>
+            <b-tabs
+                no-key-nav
+                @input="tabUpdated"
+                :lazy="true"
+                nav-wrapper-class="tabs-wrapper"
+                class="tabs-theme transparent "
+                v-model="tabIndex"
+            >
+                                    <div class="row">
+                        <donation
+                            class="col-12 mb-3"
+                            :market="{&quot;base&quot;:{&quot;name&quot;:&quot;Webchain&quot;,&quot;symbol&quot;:&quot;WEB&quot;,&quot;isToken&quot;:false,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_mintme.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_mintme.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_mintme.png&quot;},&quot;identifier&quot;:&quot;WEB&quot;,&quot;subunit&quot;:4},&quot;quote&quot;:{&quot;name&quot;:&quot;MIKOLAJ&quot;,&quot;telegramUrl&quot;:null,&quot;discordUrl&quot;:null,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_token.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_token.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_token.png&quot;},&quot;decimals&quot;:12,&quot;holdersCount&quot;:2,&quot;symbol&quot;:&quot;MIKOLAJ&quot;,&quot;blocked&quot;:false,&quot;ownerId&quot;:54092,&quot;identifier&quot;:&quot;TOK000000012342&quot;,&quot;subunit&quot;:4},&quot;identifier&quot;:&quot;TOK000000012342WEB&quot;}"
+                            :logged-in="true"
+                            :google-recaptcha-site-key="'6LfcGGgUAAAAAF9nNL-dsHOBtIEbfF3AYAWcjiP6'"
+                            :donation-params="{&quot;fee&quot;:2,&quot;minBtcAmount&quot;:1.0e-6,&quot;minMintmeAmount&quot;:0.01,&quot;minEthAmount&quot;:0.0001,&quot;minTokensAmount&quot;:0.0001,&quot;minUsdcAmount&quot;:0.01,&quot;minBnbAmount&quot;:0.001}"
+                            websocket-url="wss://api.mintme.com"
+                            disabled-services-config="{&quot;depositDisabled&quot;:false,&quot;withdrawalsDisabled&quot;:false,&quot;deployDisabled&quot;:false,&quot;newTradesDisabled&quot;:false,&quot;tradingDisabled&quot;:false,&quot;allServicesDisabled&quot;:false,&quot;tokenDepositsDisabled&quot;:false,&quot;tokenWithdrawalsDisabled&quot;:false}"
+                            profile-nickname="mikolajcoin"
+                        >
+                        </donation>
+                    </div>
+                                <token-ongoing-airdrop-campaign
+                    v-if="false"
+                    :logged-in="true"
+                    :is-owner="true"
+                    :token-name="'MIKOLAJ'"
+                    :user-already-claimed="false"
+                    login-url="https://www.mintme.com/login"
+                    signup-url="https://www.mintme.com/register/"
+                    youtube-client-id="912700451204-3kpkkork1hngbuq06gm34vb9ri0saaec.apps.googleusercontent.com"
+                    current-locale="en"
+                    :show-airdrop-modal="false"
+                    profile-nickname="mikolajcoin"
+                    :google-recaptcha-site-key="'6LfcGGgUAAAAAF9nNL-dsHOBtIEbfF3AYAWcjiP6'"
+                ></token-ongoing-airdrop-campaign>
+                                    <b-tab
+                        title="Introduction"
+                        title-link-class="token-intro-tab-link"
+                         title-item-class="token-avatar-left"                          active                     >
+                        <div class="row">
+                                                            <token-introduction-description
+                                    class="col-12 mb-3"
+                                    name="MIKOLAJ"
+                                    :description="tokenDescription"
+                                    :editable="true"
+                                    @updated="descriptionUpdated"
+                                ></token-introduction-description>
+                                                    </div>
+                        <div class="row token-info-container position-relative">
+                            <posts class="col-12 col-lg-7 pr-lg-1"
+                                :posts="posts || (posts = [])"
+                                @update-post="updatePost($event)"
+                                :max="3"
+                                token-name="MIKOLAJ"
+                                token-page
+                                :show-edit="true"
+                                @go-to-posts="goToPosts"
+                                @delete-post="deletePost"
+                                @go-to-trade="goToTrade"
+                                :logged-in="true"
+                                @go-to-post="goToPost"
+                            >
+                                <template v-slot:title>Recent posts</template>
+                            </posts>
+                            <top-holders
+                                class="col-12 offset-lg-7 col-lg-5 pt-3 pt-lg-0 pl-lg-1"
+                                                                :traders-prop="[{&quot;user&quot;:{&quot;id&quot;:13868,&quot;profile&quot;:{&quot;nickname&quot;:&quot;ELfromR&quot;,&quot;firstName&quot;:&quot;Anonymous&quot;,&quot;lastName&quot;:&quot;Anonymous&quot;,&quot;city&quot;:&quot;&quot;,&quot;country&quot;:&quot;Anonymous&quot;,&quot;description&quot;:&quot;&quot;,&quot;anonymous&quot;:true,&quot;tokens&quot;:[{&quot;name&quot;:&quot;FreshFlash&quot;,&quot;txHash&quot;:null,&quot;telegramUrl&quot;:null,&quot;discordUrl&quot;:null,&quot;image&quot;:{&quot;url&quot;:&quot;\/uploads\/images\/44a7ec04-0ddc-11ec-8a50-78e3b517e592.jpeg&quot;,&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/uploads\/images\/44a7ec04-0ddc-11ec-8a50-78e3b517e592.jpeg&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/uploads\/images\/44a7ec04-0ddc-11ec-8a50-78e3b517e592.jpeg&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/uploads\/images\/44a7ec04-0ddc-11ec-8a50-78e3b517e592.jpeg&quot;},&quot;decimals&quot;:12,&quot;holdersCount&quot;:275,&quot;symbol&quot;:&quot;FreshFlash&quot;,&quot;cryptoSymbol&quot;:&quot;WEB&quot;,&quot;deploymentStatus&quot;:&quot;not-deployed&quot;,&quot;blocked&quot;:false,&quot;ownerId&quot;:13868,&quot;identifier&quot;:&quot;TOK000000005033&quot;,&quot;subunit&quot;:4}],&quot;image&quot;:{&quot;url&quot;:&quot;\/media\/default_profile.png&quot;,&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_profile.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_profile.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_profile.png&quot;}}},&quot;balance&quot;:&quot;98.0617&quot;,&quot;timestamp&quot;:1633273737}]"
+                                                                :token-name="&quot;MIKOLAJ&quot;"
+                                websocket-url="wss://api.mintme.com"
+                            >
+                            </top-holders>
+                        </div>
+                        <div class="row">
+                            <token-introduction-statistics
+                                :is-controlled-token="true"
+                                class="col-12 mt-3"
+                                :market="{&quot;base&quot;:{&quot;name&quot;:&quot;Webchain&quot;,&quot;symbol&quot;:&quot;WEB&quot;,&quot;isToken&quot;:false,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_mintme.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_mintme.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_mintme.png&quot;},&quot;identifier&quot;:&quot;WEB&quot;,&quot;subunit&quot;:4},&quot;quote&quot;:{&quot;name&quot;:&quot;MIKOLAJ&quot;,&quot;telegramUrl&quot;:null,&quot;discordUrl&quot;:null,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_token.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_token.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_token.png&quot;},&quot;decimals&quot;:12,&quot;holdersCount&quot;:2,&quot;symbol&quot;:&quot;MIKOLAJ&quot;,&quot;blocked&quot;:false,&quot;ownerId&quot;:54092,&quot;identifier&quot;:&quot;TOK000000012342&quot;,&quot;subunit&quot;:4},&quot;identifier&quot;:&quot;TOK000000012342WEB&quot;}"
+                                :editable="true"
+                                release-period-route="/api/tokens/MIKOLAJ/lock-in"
+                                twofa=""
+                                token-created="03 Oct 2021"
+                                :precision="4"
+                                :deployment-status="getTokenStatus(&quot;not-deployed&quot;)"
+                                :token-contract-address="tokenAddress || (tokenAddress = null)"
+                                websocket-url="wss://api.mintme.com"
+                                :holders-prop="2"
+                            >
+                            </token-introduction-statistics>
+                        </div>
+                    </b-tab>
+                                                    <b-tab
+                        title="Posts"
+                        title-link-class="token-posts-tab-link"
+                         title-item-class="trade-post"                                             >
+                        <div class="container-fluid">
+                                                            <div class="row mb-3 justify-content-center">
+                                    <create-post class="col-12 col-md-10 col-lg-8"
+                                         token-name="MIKOLAJ"
+                                         :subunit="4"
+                                        @update-posts="updatePosts"
+                                    />
+                                </div>
+                                                        <div class="row justify-content-center">
+                                <posts class="col-12 col-md-10 col-lg-8"
+                                    :posts="posts || (posts = [])"
+                                    @update-post="updatePost($event)"
+                                    :show-edit="true"
+                                    @delete-post="deletePost"
+                                    @go-to-trade="goToTrade"
+                                    :logged-in="true"
+                                    @go-to-post="goToPost"
+                                />
+                            </div>
+                        </div>
+                    </b-tab>
+                                                    <b-tab
+                        title="Trade"
+                        title-link-class="token-trade-tab-link"
+                                                                    >
+                        <trade
+                            :is-token="true"
+                            :is-controlled-token="true"
+                            websocket-url="wss://api.mintme.com"
+                            hash="8bba98c9305bf85801769b78624cf3d3ffcb64708ab4303e538754baaf83b0ee"
+                            login-url="/login"
+                            signup-url="/register/"
+                            :market="{&quot;base&quot;:{&quot;name&quot;:&quot;Webchain&quot;,&quot;symbol&quot;:&quot;WEB&quot;,&quot;isToken&quot;:false,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_mintme.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_mintme.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_mintme.png&quot;},&quot;identifier&quot;:&quot;WEB&quot;,&quot;subunit&quot;:4},&quot;quote&quot;:{&quot;name&quot;:&quot;MIKOLAJ&quot;,&quot;telegramUrl&quot;:null,&quot;discordUrl&quot;:null,&quot;image&quot;:{&quot;avatar_small&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_small\/media\/default_token.png&quot;,&quot;avatar_middle&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_middle\/media\/default_token.png&quot;,&quot;avatar_large&quot;:&quot;https:\/\/www.mintme.com\/media\/cache\/resolve\/avatar_large\/media\/default_token.png&quot;},&quot;decimals&quot;:12,&quot;holdersCount&quot;:2,&quot;symbol&quot;:&quot;MIKOLAJ&quot;,&quot;blocked&quot;:false,&quot;ownerId&quot;:54092,&quot;identifier&quot;:&quot;TOK000000012342&quot;,&quot;subunit&quot;:4},&quot;identifier&quot;:&quot;TOK000000012342WEB&quot;}"
+                            :logged-in="true"
+                            :is-owner="true"
+                            :precision="4"
+                            :user-id="54092"
+                            mintme-supply-url="https://www.mintme.com/coin/supply.txt"
+                            :minimum-volume-for-marketcap="10000"
+                            disabled-services-config="{&quot;depositDisabled&quot;:false,&quot;withdrawalsDisabled&quot;:false,&quot;deployDisabled&quot;:false,&quot;newTradesDisabled&quot;:false,&quot;tradingDisabled&quot;:false,&quot;allServicesDisabled&quot;:false,&quot;tokenDepositsDisabled&quot;:false,&quot;tokenWithdrawalsDisabled&quot;:false}"
+                                                            :taker-fee="0.005"
+                                                        profile-nickname="mikolajcoin"
+                        >
+                        </trade>
+                    </b-tab>
+                                                    <b-tab
+                        title="Post"
+                        title-item-class="d-none"
+                                            >
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-md-10 col-lg-8">
+                                <div class="card h-100 single-post-page">
+                                    <div class="card-body posts">
+                                        <post
+                                            :post="singlePost || (singlePost = null)"
+                                            @update-post="singlePost = $event"
+                                            :show-edit="true"
+                                            :logged-in="true"
+                                            @delete-post="deleteSinglePost"
+                                            @go-to-trade="goToTrade"
+                                            single-page
+                                        ></post>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </b-tab>
+                    <b-tab
+                        title="Voting"
+                        title-link-class="token-voting-tab-link"
+                                                                    >
+                        <voting-list
+                            token-name-prop="MIKOLAJ"
+                            :votings-prop="[]"
+                            :min-amount="100"
+                            @go-to-create="goToCreateVoting"
+                            @go-to-show="goToShowVoting"
+                        >
+                        </voting-list>
+                    </b-tab>
+                    <b-tab
+                        title="create-voting"
+                        title-item-class="d-none"
+                                            >
+                        <voting-create
+                            token-name-prop="MIKOLAJ"
+                            :votings-prop="[]"
+                        >
+                        </voting-create>
+                    </b-tab>
+                    <b-tab
+                        title="show-voting"
+                        title-item-class="d-none"
+                                            >
+                        <voting-show
+                            token-name-prop="MIKOLAJ"
+                            :votings-prop="[]"
+                                                    >
+                        </voting-show>
+                    </b-tab>
+                                <template slot="tabs-end">
+                                            <li class="nav-item ml-auto my-2 my-lg-0">
+                            <div class="d-flex align-items-center h-100">
+                                <envelope
+                                    :logged-in="true"
+                                    :is-owner="true"
+                                    :dm-min-amount="100"
+                                    token-name="MIKOLAJ"
+                                ></envelope>
+                                <div class="div-container-avatar">
+                                    <a
+                                        href="/profile/mikolajcoin"
+                                    >
+                                        <avatar
+                                            class=""
+                                            size="small"
+                                            type="profile"
+                                            image="https://www.mintme.com/media/cache/avatar_small/uploads/images/20281166-245b-11ec-927e-ac162db679ce.jpeg"
+                                        ></avatar>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                                                            <div class="clearfix"></div>
+                </template>
+            </b-tabs>
+        </div>
+                    <input type="hidden" v-model="tokenDescription" :set-value="tokenDescription = tokenDescription || &quot;MIKOLAJ coins - business coins for custormes of Krabowe Skorupki.\r\nReef clothes from the depths of the ocean. \r\n\r\nShop for your boards, japanesee cars, neopren suits, good windsurfing sails, boots and carvings.\r\nDesign by Miko\u0142aj Roszak&quot;" />
+            <input type="hidden" v-model="tokenName" :set-value="tokenName = tokenName || &quot;MIKOLAJ&quot;" />
+            <input
+                    type="hidden"
+                    v-model="showDeployedOnBoard"
+                    :set-value="showDeployedOnBoard = null !== showDeployedOnBoard
+                        ? showDeployedOnBoard
+                        : false" />
+        
+    </div>
+    <token-deployed-modal
+        v-if="showDeployedOnBoard"
+        :visible="showDeployedOnBoard"
+        token-name="MIKOLAJ"
+        @close="closeDeployedModal()"
+    ></token-deployed-modal>
+    </div>
+
+<input type="hidden" id="confirm-website-url" value="/api/tokens/MIKOLAJ/website-confirmation">
+                                            </main>
+                                            <footer id="footer" class="container-fluid align-items-end">
+    <div class="row h-100 justify-content-center align-items-center text-white pt-3 pb-0 px-5">
+        <div class="col-md-12 text-center drops-switcher">
+                            <locale-switcher
+                    current-locale="en"
+                    flags="{&quot;en&quot;:{&quot;label&quot;:&quot;English&quot;,&quot;flag&quot;:&quot;gb&quot;},&quot;es&quot;:{&quot;label&quot;:&quot;Español&quot;,&quot;flag&quot;:&quot;es&quot;},&quot;fr&quot;:{&quot;label&quot;:&quot;Française&quot;,&quot;flag&quot;:&quot;fr&quot;}}"
+                ></locale-switcher>
+                        <currency-mode-switcher></currency-mode-switcher>
+        </div>
+        <div class="col-md-12 text-center">
+            <a href="/terms-of-service">Terms&nbsp;of&nbsp;Service</a> | <a href="/privacy-policy">Privacy&nbsp;policy</a> | <a href="/dev/documentation/v2">API</a> | <a  target="_blank"  href="/mintme-press-kit.pdf">Press Kit</a> | <a href="https://www.mintme.com/coin/">MintMe Coin</a> | <a href="https://www.mintme.com/web-wallet/">Web Wallet</a> | <a href="https://www.mintme.com/explorer" target="_blank">Explorer</a> | <a href="https://www.mintme.com/pool" target="_blank">Pool</a> <br/>
+            V1.8.23 | Copyright 2018-2021 mintMe. All rights reserved            <span class="justify-content-center d-inline cookies-term"> <span class="separator">-</span> <font-awesome-icon icon="cookie-bite"></font-awesome-icon>This website uses cookies</span>
+        </div>
+        <div class="col-md-12 mt-3 text-center social-media-icons">
+            <a
+                href="https://twitter.com/mintmeproject"
+                rel="noopener"
+                aria-label="twitter"
+                class="col-auto d-inline text-white rounded-circle justify-content-center p-0 m-3"
+                target="_blank"
+            >
+                <img src="/build/images/icon-twitter-45.de7d7e0a..png" class="align-self-center text-center mb-3"
+                     alt="twitter logo"/>
+            </a>
+            <a
+                href="https://www.reddit.com/r/MintMeCom"
+                rel="noopener"
+                aria-label="reddit"
+                class="col-auto d-inline text-white rounded-circle justify-content-center p-0 m-3"
+                target="_blank"
+            >
+                <img src="/build/images/icon-reddit-45.005cc60e..png" class="align-self-center text-center mb-3"
+                     alt="reddit logo"/>
+            </a>
+            <a
+                href="https://discord.com/invite/uuZXhCn"
+                rel="noopener"
+                aria-label="discord"
+                class="col-auto d-inline text-white rounded-circle justify-content-center p-0 m-3"
+                target="_blank"
+            >
+                <img src="/build/images/icon-discord-45.b04bc9f3..png" class="align-self-center text-center mb-3"
+                     alt="discord icon"/>
+            </a>
+            <a
+                href="https://t.me/joinchat/Hzio4lCr-95bHcbB1-RX9Q"
+                rel="noopener"
+                aria-label="telegram_group"
+                class="col-auto d-inline text-white rounded-circle justify-content-center p-0 m-3"
+                target="_blank"
+            >
+                <img src="/build/images/icon-telegram-group-45.c73af310..png" class="align-self-center text-center mb-3"
+                     alt="telegram group"/>
+            </a>
+            <a
+                href="https://t.me/webchainnetwork"
+                rel="noopener"
+                aria-label="telegram_channel"
+                class="col-auto d-inline text-white rounded-circle justify-content-center p-0 m-3"
+                target="_blank"
+            >
+                <img src="/build/images/icon-telegram-announcement-45.8bd12b74..png" class="align-self-center text-center mb-3"
+                     alt="telegram chat"/>
+            </a>
+            <a
+                href="https://www.facebook.com/mintmeproject"
+                rel="noopener"
+                aria-label="facebook"
+                class="col-auto d-inline text-white rounded-circle justify-content-center p-0 m-3"
+                target="_blank"
+            >
+                <img src="/build/images/icon-facebook-45.dc7660bc..png" class="align-self-center text-center mb-3"
+                     alt="facebook logo"/>
+            </a>
+        </div>
+    </div>
+</footer>
+                                    </div>
+                    </body>
+    </html>
