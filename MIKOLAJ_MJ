@@ -1,0 +1,161 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta property="og:title" content="MIKOLAJ - WalletBuilders" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.walletbuilders.com/faq" />
+<meta property="og:site_name" content="WalletBuilders" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.walletbuilders.com/img/opengraph-image.png" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://www.walletbuilders.com/faq">
+<meta name="twitter:title" content="MIKOLAJ - WalletBuilders">
+<meta name="twitter:image" content="https://www.walletbuilders.com/img/opengraph-twitter.png">
+<meta name="twitter:site" content="@WalletBuilders">
+<meta name="twitter:creator" content="@WalletBuilders">
+<meta name="twitter:description" content="">
+<title>MIKOLAJ - WalletBuilders</title>
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/jasny-bootstrap.min.css" rel="stylesheet">
+<link href="/css/fontawesome/css/all.css" rel="stylesheet">
+<link href="/css/flag-icon/css/flag-icon.min.css" rel="stylesheet">
+<link href="/js/formvalidation/css/formValidation.min.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4d5d66">
+<meta name="theme-color" content="#4d5d66">
+<script type="application/ld+json">
+            { "@context" : "http://schema.org",
+            "@type" : "Organization",
+            "name" : "WalletBuilders",
+            "url" : "https://www.walletbuilders.com",
+            "logo": "https://www.walletbuilders.com/img/logo.png",
+            "sameAs" : [ 
+            "https://www.twitter.com/walletbuilders"
+            ] 
+            }
+        </script>
+<script>
+            var _paq = _paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function () {
+                var u = "//stats.walletbuilders.com/";
+                _paq.push(['setTrackerUrl', u + 'piwik.php']);
+                _paq.push(['setSiteId', '1']);
+                var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.type = 'text/javascript';
+                g.async = true;
+                g.defer = true;
+                g.src = u + 'piwik.js';
+                s.parentNode.insertBefore(g, s);
+            })();
+        </script>
+<body>
+<nav class="navbar navbar-expand-md navbar-custom">
+<div class="container">
+<a class="navbar-brand" href="https://www.walletbuilders.com" title="WalletBuilders"><img src="/img/walletbuilders_logo.png" alt="WalletBuilders"></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarWalletBuilders" aria-controls="navbarWalletBuilders" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarWalletBuilders">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link" href="/#what_we_do" title="What we do">What we do</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/#products" title="Products">Products</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/#coin_wizard" title="Coin wizard">Coin wizard</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/learning-center" title="Learning center">Learning center</a>
+</li>
+</ul>
+<a class="btn btn-wb-freeblockchain" href="/#coin_wizard" title="Get a free cryptocurrency" role="button">Get a free cryptocurrency</a>
+</div>
+</div>
+</nav>
+<header class="intro-mycoin">
+<div class="container intro-text-mycoin">
+<h1>MIKOLAJ</h1>
+<p class="lead">MJ</p>
+</div>
+</header>
+<main class="container mycoin">
+<div class="row">
+<div class="col-sm">
+<div class="alert alert-warning wb-alert" role="alert">Status: Waiting to create your coin <br /><small>Estimated wait time 00 hour and 41 minutes</small></div> </div>
+</div>
+<div class="row">
+<div class="col-sm-3">
+<div class="list-group list-group-mycoin">
+<button type="button" class="list-group-item list-group-item-action active" id="blockchain_properties_button">Coin properties</button>
+<button type="button" class="list-group-item list-group-item-action" id="advanced_properties_button">Advanced properties</button>
+<button type="button" class="list-group-item list-group-item-action" id="hosted_node_button">Node hosting</button>
+<button type="button" class="list-group-item list-group-item-action" id="console_node_button">Node console</button>
+<button type="button" class="list-group-item list-group-item-action" id="download_button">Downloads</button>
+<button type="button" class="list-group-item list-group-item-action" id="tutorial_button">Tutorials</button>
+<button type="button" class="list-group-item list-group-item-action list-group-item-success" id="services_button">Services</button>
+</div>
+</div>
+<div class="col-sm">
+<div class="content"></div>
+</div>
+</div>
+</main>
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="col-sm">
+</div>
+<div class="col-sm">
+<h5>Navigation</h5>
+<ul class="list-group">
+<li class="list-group-item"><a href="/#what_we_do" title="What we do">What we do</a></li>
+<li class="list-group-item"><a href="/#products" title="Products">Products</a></li>
+<li class="list-group-item"><a href="/#coin_wizard" title="Coin wizard">Coin wizard</a></li>
+<li class="list-group-item"><a href="/learning-center" title="Learning center">Learning center</a></li>
+</ul>
+</div>
+<div class="col-sm">
+<a href="https://twitter.com/walletbuilders" title="Follow WalletBuilders on Twitter"><i id="social-tw" class="fab fa-twitter-square fa-2x social"></i></a>
+<a href="https://www.youtube.com/c/WalletBuilders" title="Follow WalletBuilders on YouTube"><i id="social-yt" class="fab fa-youtube-square fa-2x social"></i></a>
+<a href="https://discord.gg/WEwdJUd " title="WalletBuilders Discord Server"><i id="social-dc" class="fab fa-discord fa-2x social"></i></a>
+</div>
+<div class="col-sm">
+<h5>MyCoin</h5>
+<ul class="list-group">
+<li class="list-group-item"><a href="/mycoin" title="Login">Login</a></li>
+</ul>
+<h5>Contact</h5>
+<ul class="list-group">
+<li class="list-group-item"><a href="https://support.walletbuilders.com" title="Support">Support</a></li>
+</ul>
+<h5>About</h5>
+<ul class="list-group">
+<li class="list-group-item"><a href="/privacy" title="Privacy and Cookies">Privacy and Cookies</a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/formvalidation/js/FormValidation.full.min.js"></script>
+<script src="/js/formvalidation/js/plugins/Bootstrap.min.js"></script>
+<script src="/js/jasny-bootstrap.min.js"></script>
+<script src="/js/typeahead.bundle.js"></script>
+<script src="/js/mycoin.js?coin=45a6d1161a784e9e7ae4c8b2bd850fcc50e54bd011b379f302"></script>
+</body>
+</html>
